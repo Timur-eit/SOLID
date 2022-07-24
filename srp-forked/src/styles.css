@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  line-height: 25px;
+}
+
+section {
+  color: #006bff;
+}
+
+section span:hover {
+  cursor: pointer;
+  border-bottom: 1px solid #006bff;
+}
